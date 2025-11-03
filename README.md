@@ -8,4 +8,4 @@ Chosen Models: SVR, Random Forest
 ## Classification
 Dataset: [Adult Census Income](https://www.kaggle.com/datasets/uciml/adult-census-income)
 
-Chosen Models: XGB, Gradient Boosting, Random Forest
+Chosen Models: Decision Tree, Random Forest
